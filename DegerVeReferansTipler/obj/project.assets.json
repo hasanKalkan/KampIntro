@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Metotlar\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
+      "projectUniqueName": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
       "projectName": "DegerVeReferansTipler",
-      "projectPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Metotlar\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
+      "projectPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
       "packagesPath": "C:\\Users\\KALKAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Metotlar\\DegerVeReferansTipler\\obj\\",
+      "outputPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\DegerVeReferansTipler\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

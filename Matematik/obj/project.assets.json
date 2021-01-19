@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Metotlar\\Matematik\\Matematik.csproj",
+      "projectUniqueName": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Matematik\\Matematik.csproj",
       "projectName": "Matematik",
-      "projectPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Metotlar\\Matematik\\Matematik.csproj",
+      "projectPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Matematik\\Matematik.csproj",
       "packagesPath": "C:\\Users\\KALKAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Metotlar\\Matematik\\obj\\",
+      "outputPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Matematik\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Metotlar\\Metotlar\\Metotlar.csproj",
+      "projectUniqueName": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Metotlar\\Metotlar.csproj",
       "projectName": "Metotlar",
-      "projectPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Metotlar\\Metotlar\\Metotlar.csproj",
+      "projectPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Metotlar\\Metotlar.csproj",
       "packagesPath": "C:\\Users\\KALKAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Metotlar\\Metotlar\\obj\\",
+      "outputPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Metotlar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

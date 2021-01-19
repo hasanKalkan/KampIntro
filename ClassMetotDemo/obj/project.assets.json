@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Metotlar\\ClassMetotDemo\\ClassMetotDemo.csproj",
+      "projectUniqueName": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\ClassMetotDemo\\ClassMetotDemo.csproj",
       "projectName": "ClassMetotDemo",
-      "projectPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Metotlar\\ClassMetotDemo\\ClassMetotDemo.csproj",
+      "projectPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\ClassMetotDemo\\ClassMetotDemo.csproj",
       "packagesPath": "C:\\Users\\KALKAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Metotlar\\ClassMetotDemo\\obj\\",
+      "outputPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\ClassMetotDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
