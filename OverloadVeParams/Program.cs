@@ -17,12 +17,12 @@ namespace OverloadVeParams
             return sayi1 + sayi2;
         }
 
-        static int topla(int sayi1, int sayi2,int sayi3)
+        static int topla(int sayi1, int sayi2,int sayi3) //Overload
         {
             return sayi1 + sayi2 + sayi3 ;
         }
 
-        static int toplaParams(params int[] sayilar)
+        static int toplaParams(params int[] sayilar) //params
         {
             return sayilar.Sum();
         }
