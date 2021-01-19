@@ -28,12 +28,11 @@ namespace ClassMetotDemo
             musteriManager.Ekle(musteri2);
 
             Console.WriteLine("\n");
-            musteriManager.Sil("Kamil", "Can");
-            musteriManager.Sil("Ayşe", "Nur");
+            musteriManager.Sil(musteri1);
+            musteriManager.Sil(musteri2);
 
             Console.WriteLine("\n");
-            musteriManager.Listele(musteri1);
-            musteriManager.Listele(musteri2);
+            musteriManager.Listele(musteriler);
         }
     }
 }

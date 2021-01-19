@@ -11,15 +11,18 @@ namespace ClassMetotDemo
             Console.WriteLine(musteri.Ad + " isimli müşteri başarıyla eklendi.");
         }
 
-        public void Sil(string musteriAdi, string musteriSoyadi)
+        public void Sil(Musteri musteri)
         {
-            Console.WriteLine(musteriAdi + " isimli müşteri başarıyla silindi.");
+            Console.WriteLine(musteri.Ad + " isimli müşteri başarıyla silindi.");
         }
 
-        public void Listele(Musteri musteri)
+        public void Listele(Musteri[] musteriler)
         {
-            Console.WriteLine(musteri.Ad + " isimli müşteri başarıyla listelendi.");
+            Console.WriteLine("Müşteriler başarıyla listelendi.");
+            foreach (Musteri musteri in musteriler) {
+                Console.WriteLine(musteri.Ad + " " + musteri.Soyad);
+            }
         }
     }
-
 }
+
