@@ -22,6 +22,7 @@ namespace DegerVeReferansTipler
             sayilar1[0] = 111;
             Console.WriteLine("sayilar1[0]: " + sayilar1[0]);
             Console.WriteLine("sayilar2[0]: " + sayilar2[0]);
+            Console.WriteLine("merhaba");
 
 
 
