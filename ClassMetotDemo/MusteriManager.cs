@@ -15,6 +15,11 @@ namespace ClassMetotDemo
         {
             Console.WriteLine(musteriAdi + " isimli müşteri başarıyla silindi.");
         }
+
+        public void Listele(Musteri musteri)
+        {
+            Console.WriteLine(musteri.Ad + " isimli müşteri başarıyla listelendi.");
+        }
     }
 
 }

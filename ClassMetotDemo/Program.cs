@@ -30,6 +30,10 @@ namespace ClassMetotDemo
             Console.WriteLine("\n");
             musteriManager.Sil("Kamil", "Can");
             musteriManager.Sil("Ayşe", "Nur");
+
+            Console.WriteLine("\n");
+            musteriManager.Listele(musteri1);
+            musteriManager.Listele(musteri2);
         }
     }
 }
