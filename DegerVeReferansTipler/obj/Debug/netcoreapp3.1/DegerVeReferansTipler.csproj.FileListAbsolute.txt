@@ -11,3 +11,16 @@ C:\Users\KALKAN\source\repos\KampIntro\Metotlar\DegerVeReferansTipler\obj\Debug\
 C:\Users\KALKAN\source\repos\KampIntro\Metotlar\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.dll
 C:\Users\KALKAN\source\repos\KampIntro\Metotlar\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.pdb
 C:\Users\KALKAN\source\repos\KampIntro\Metotlar\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.genruntimeconfig.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.deps.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.runtimeconfig.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.runtimeconfig.dev.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.csprojAssemblyReference.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.AssemblyInfoInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.AssemblyInfo.cs
+C:\Users\KALKAN\Documents\GitHub\KampIntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.genruntimeconfig.cache

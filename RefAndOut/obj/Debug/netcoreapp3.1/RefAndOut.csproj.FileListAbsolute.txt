@@ -10,3 +10,4 @@ C:\Users\KALKAN\Documents\GitHub\KampIntro\RefAndOut\obj\Debug\netcoreapp3.1\Ref
 C:\Users\KALKAN\Documents\GitHub\KampIntro\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.dll
 C:\Users\KALKAN\Documents\GitHub\KampIntro\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.pdb
 C:\Users\KALKAN\Documents\GitHub\KampIntro\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.genruntimeconfig.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.csprojAssemblyReference.cache

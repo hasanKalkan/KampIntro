@@ -11,3 +11,16 @@ C:\Users\KALKAN\source\repos\KampIntro\Metotlar\Metotlar\obj\Debug\netcoreapp3.1
 C:\Users\KALKAN\source\repos\KampIntro\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
 C:\Users\KALKAN\source\repos\KampIntro\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
 C:\Users\KALKAN\source\repos\KampIntro\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.dev.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csprojAssemblyReference.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache
