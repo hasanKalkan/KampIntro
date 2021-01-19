@@ -8,8 +8,8 @@ namespace OverloadVeParams
         static void Main(string[] args)
         {
             Console.WriteLine(topla(2, 5));
-            Console.WriteLine(topla(2, 5,9));
-            Console.WriteLine(toplaParams(2, 5,9,4,5,6));
+            Console.WriteLine(topla(2, 5,9)); //overload
+            Console.WriteLine(toplaParams(2, 5,9,4,5,6)); //params
         }
 
         static int topla(int sayi1,int sayi2)
