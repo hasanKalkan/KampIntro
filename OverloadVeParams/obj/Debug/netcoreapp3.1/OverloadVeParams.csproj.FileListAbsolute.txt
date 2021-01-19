@@ -1,0 +1,12 @@
+C:\Users\KALKAN\Documents\GitHub\KampIntro\OverloadVeParams\bin\Debug\netcoreapp3.1\OverloadVeParams.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\OverloadVeParams\bin\Debug\netcoreapp3.1\OverloadVeParams.deps.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\OverloadVeParams\bin\Debug\netcoreapp3.1\OverloadVeParams.runtimeconfig.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\OverloadVeParams\bin\Debug\netcoreapp3.1\OverloadVeParams.runtimeconfig.dev.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\OverloadVeParams\bin\Debug\netcoreapp3.1\OverloadVeParams.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\OverloadVeParams\bin\Debug\netcoreapp3.1\OverloadVeParams.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\OverloadVeParams\obj\Debug\netcoreapp3.1\OverloadVeParams.AssemblyInfoInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\OverloadVeParams\obj\Debug\netcoreapp3.1\OverloadVeParams.AssemblyInfo.cs
+C:\Users\KALKAN\Documents\GitHub\KampIntro\OverloadVeParams\obj\Debug\netcoreapp3.1\OverloadVeParams.csproj.CoreCompileInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\OverloadVeParams\obj\Debug\netcoreapp3.1\OverloadVeParams.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\OverloadVeParams\obj\Debug\netcoreapp3.1\OverloadVeParams.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\OverloadVeParams\obj\Debug\netcoreapp3.1\OverloadVeParams.genruntimeconfig.cache
