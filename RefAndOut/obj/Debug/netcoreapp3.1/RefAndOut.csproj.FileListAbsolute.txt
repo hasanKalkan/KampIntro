@@ -1,0 +1,12 @@
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.deps.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.runtimeconfig.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.runtimeconfig.dev.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.csproj.CoreCompileInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.AssemblyInfoInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.AssemblyInfo.cs
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.genruntimeconfig.cache
