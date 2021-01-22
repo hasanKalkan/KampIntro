@@ -1,0 +1,13 @@
+C:\Users\KALKAN\Documents\GitHub\KampIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.deps.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.runtimeconfig.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.runtimeconfig.dev.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.csprojAssemblyReference.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.AssemblyInfo.cs
+C:\Users\KALKAN\Documents\GitHub\KampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.genruntimeconfig.cache
