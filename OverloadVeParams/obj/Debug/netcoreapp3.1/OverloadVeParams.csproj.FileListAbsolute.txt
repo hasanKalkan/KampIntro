@@ -10,3 +10,4 @@ C:\Users\KALKAN\Documents\GitHub\KampIntro\OverloadVeParams\obj\Debug\netcoreapp
 C:\Users\KALKAN\Documents\GitHub\KampIntro\OverloadVeParams\obj\Debug\netcoreapp3.1\OverloadVeParams.dll
 C:\Users\KALKAN\Documents\GitHub\KampIntro\OverloadVeParams\obj\Debug\netcoreapp3.1\OverloadVeParams.pdb
 C:\Users\KALKAN\Documents\GitHub\KampIntro\OverloadVeParams\obj\Debug\netcoreapp3.1\OverloadVeParams.genruntimeconfig.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\OverloadVeParams\obj\Debug\netcoreapp3.1\OverloadVeParams.csprojAssemblyReference.cache

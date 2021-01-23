@@ -1,0 +1,12 @@
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache
