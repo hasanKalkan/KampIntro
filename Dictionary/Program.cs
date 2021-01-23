@@ -13,6 +13,7 @@ namespace Dictionary
             CityAndCode.Add("Ankara", 06);
             CityAndCode.Add("İzmir", 35);
 
+                       
             foreach (var key in CityAndCode.Keys)
             {
                 Console.WriteLine(key);
