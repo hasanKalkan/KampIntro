@@ -26,15 +26,39 @@ namespace ReferenceTypes
                   Console.WriteLine("sayilar1: "+sayi);
               }*/
 
-            Person person1 = new Person();
+          /*  Person person1 = new Person();
             Person person2 = new Person();
 
             person1.FirsName = "Ali";
 
             person2 = person1;
             person1.FirsName = "Ahmet"; // person2.FirstName de Ahmet oldu.
+           
 
-            Console.WriteLine(person2.FirsName); //Ahmet
+            Console.WriteLine("person2.FirsName: "+person2.FirsName); */ //Ahmet
+            
+
+            Customer customer = new Customer();
+            customer.FirsName = "Can";
+            customer.CreditCardNumber = "1234567890";
+
+            Employee employee = new Employee();
+            employee.FirsName = "Ayşe";
+            
+            //customer = employee; //bu satır çalışmaz. farklı türler
+                        
+            Person person3 = customer;
+            customer.FirsName = "Canan";
+
+            Console.WriteLine(((Customer)person3).CreditCardNumber); //boxing-kutulama
+
+            Console.WriteLine("person3.FirstName: "+person3.FirsName); //Can
+
+            PersonManager personManager = new PersonManager();
+            personManager.Add(customer);
+            personManager.Add(employee);
+
+
 
         }
     }
@@ -55,5 +79,13 @@ namespace ReferenceTypes
     class Employee:Person //Person özellikleri employee miras bırakılır
     {
         public int EmployeeNumber { get; set; }
+    }
+
+    class PersonManager
+    {
+        public void Add(Person person)
+        {
+            Console.WriteLine(person.FirsName+" eklendi.");
+        }
     }
 }
