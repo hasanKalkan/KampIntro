@@ -40,7 +40,7 @@ namespace NotHesapla
             textBoxEkle();        
         }
 
-        private void textBoxEkle()
+        public void textBoxEkle()
         {
             int i = int.Parse(txtDersAdedi.Text);
             label1.Text = i.ToString();
@@ -56,11 +56,21 @@ namespace NotHesapla
                 this.Controls.Add(textBoxes[j]);
                 top += 30;
             }
+            int toplam = 0;
+         /*   public static void ortalamaHesapla()
+            {
+                
+            }*/
         }
 
         private void btnOrtalamaHesapla_Click(object sender, EventArgs e)
         {
-            
+            //textBoxEkle(orta)
+        }
+        int dersSayisi = 0;
+        private void btnDersArttir_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

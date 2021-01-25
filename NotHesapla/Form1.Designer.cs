@@ -33,6 +33,7 @@ namespace NotHesapla
             this.btnOrtalamaHesapla = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.txtDersAdedi = new System.Windows.Forms.TextBox();
+            this.btnDersArttir = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnDersEkle
@@ -47,7 +48,7 @@ namespace NotHesapla
             // 
             // btnOrtalamaHesapla
             // 
-            this.btnOrtalamaHesapla.Location = new System.Drawing.Point(223, 26);
+            this.btnOrtalamaHesapla.Location = new System.Drawing.Point(294, 26);
             this.btnOrtalamaHesapla.Name = "btnOrtalamaHesapla";
             this.btnOrtalamaHesapla.Size = new System.Drawing.Size(115, 23);
             this.btnOrtalamaHesapla.TabIndex = 1;
@@ -71,11 +72,22 @@ namespace NotHesapla
             this.txtDersAdedi.Size = new System.Drawing.Size(75, 20);
             this.txtDersAdedi.TabIndex = 3;
             // 
+            // btnDersArttir
+            // 
+            this.btnDersArttir.Location = new System.Drawing.Point(213, 26);
+            this.btnDersArttir.Name = "btnDersArttir";
+            this.btnDersArttir.Size = new System.Drawing.Size(75, 23);
+            this.btnDersArttir.TabIndex = 4;
+            this.btnDersArttir.Text = "Ders Arttır";
+            this.btnDersArttir.UseVisualStyleBackColor = true;
+            this.btnDersArttir.Click += new System.EventHandler(this.btnDersArttir_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(716, 450);
+            this.Controls.Add(this.btnDersArttir);
             this.Controls.Add(this.txtDersAdedi);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnOrtalamaHesapla);
@@ -93,6 +105,7 @@ namespace NotHesapla
         private System.Windows.Forms.Button btnOrtalamaHesapla;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtDersAdedi;
+        private System.Windows.Forms.Button btnDersArttir;
     }
 }
 

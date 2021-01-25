@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1", "RecapDemo1\Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotHesapla", "NotHesapla\NotHesapla.csproj", "{5817E36D-C8F9-4C7A-AF95-06349EBC8DC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{A7853365-B82B-4D73-918D-1175E3FB1FAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{5817E36D-C8F9-4C7A-AF95-06349EBC8DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5817E36D-C8F9-4C7A-AF95-06349EBC8DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5817E36D-C8F9-4C7A-AF95-06349EBC8DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7853365-B82B-4D73-918D-1175E3FB1FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7853365-B82B-4D73-918D-1175E3FB1FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7853365-B82B-4D73-918D-1175E3FB1FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7853365-B82B-4D73-918D-1175E3FB1FAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
