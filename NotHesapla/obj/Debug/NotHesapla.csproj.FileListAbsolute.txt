@@ -1,0 +1,10 @@
+C:\Users\KALKAN\Documents\GitHub\KampIntro\NotHesapla\bin\Debug\NotHesapla.exe.config
+C:\Users\KALKAN\Documents\GitHub\KampIntro\NotHesapla\bin\Debug\NotHesapla.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\NotHesapla\bin\Debug\NotHesapla.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\NotHesapla\obj\Debug\NotHesapla.csprojAssemblyReference.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\NotHesapla\obj\Debug\NotHesapla.Form1.resources
+C:\Users\KALKAN\Documents\GitHub\KampIntro\NotHesapla\obj\Debug\NotHesapla.Properties.Resources.resources
+C:\Users\KALKAN\Documents\GitHub\KampIntro\NotHesapla\obj\Debug\NotHesapla.csproj.GenerateResource.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\NotHesapla\obj\Debug\NotHesapla.csproj.CoreCompileInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\NotHesapla\obj\Debug\NotHesapla.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\NotHesapla\obj\Debug\NotHesapla.pdb

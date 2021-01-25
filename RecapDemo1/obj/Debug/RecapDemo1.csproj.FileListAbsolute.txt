@@ -1,0 +1,10 @@
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RecapDemo1\bin\Debug\RecapDemo1.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RecapDemo1\bin\Debug\RecapDemo1.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RecapDemo1\obj\Debug\RecapDemo1.csprojAssemblyReference.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RecapDemo1\obj\Debug\RecapDemo1.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\RecapDemo1\obj\Debug\RecapDemo1.pdb

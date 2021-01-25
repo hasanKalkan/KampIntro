@@ -10,3 +10,4 @@ C:\Users\KALKAN\Documents\GitHub\KampIntro\Constructors\obj\Debug\netcoreapp3.1\
 C:\Users\KALKAN\Documents\GitHub\KampIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.dll
 C:\Users\KALKAN\Documents\GitHub\KampIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.pdb
 C:\Users\KALKAN\Documents\GitHub\KampIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.genruntimeconfig.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.csprojAssemblyReference.cache
