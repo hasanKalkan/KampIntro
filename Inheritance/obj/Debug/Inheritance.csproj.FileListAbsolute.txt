@@ -1,0 +1,6 @@
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Inheritance\obj\Debug\Inheritance.pdb
