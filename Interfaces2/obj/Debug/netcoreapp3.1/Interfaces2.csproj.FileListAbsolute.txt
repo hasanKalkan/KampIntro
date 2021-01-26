@@ -1,0 +1,13 @@
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Interfaces2\bin\Debug\netcoreapp3.1\Interfaces2.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Interfaces2\bin\Debug\netcoreapp3.1\Interfaces2.deps.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Interfaces2\bin\Debug\netcoreapp3.1\Interfaces2.runtimeconfig.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Interfaces2\bin\Debug\netcoreapp3.1\Interfaces2.runtimeconfig.dev.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Interfaces2\bin\Debug\netcoreapp3.1\Interfaces2.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Interfaces2\bin\Debug\netcoreapp3.1\Interfaces2.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Interfaces2\obj\Debug\netcoreapp3.1\Interfaces2.csprojAssemblyReference.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Interfaces2\obj\Debug\netcoreapp3.1\Interfaces2.AssemblyInfoInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Interfaces2\obj\Debug\netcoreapp3.1\Interfaces2.AssemblyInfo.cs
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Interfaces2\obj\Debug\netcoreapp3.1\Interfaces2.csproj.CoreCompileInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Interfaces2\obj\Debug\netcoreapp3.1\Interfaces2.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Interfaces2\obj\Debug\netcoreapp3.1\Interfaces2.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Interfaces2\obj\Debug\netcoreapp3.1\Interfaces2.genruntimeconfig.cache
