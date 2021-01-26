@@ -1,0 +1,7 @@
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfacesDemo\obj\Debug\InterfacesDemo.csprojAssemblyReference.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfacesDemo\obj\Debug\InterfacesDemo.pdb
