@@ -1,0 +1,12 @@
+C:\Users\KALKAN\Documents\GitHub\KampIntro\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfo.cs
+C:\Users\KALKAN\Documents\GitHub\KampIntro\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.deps.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.dev.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.genruntimeconfig.cache
