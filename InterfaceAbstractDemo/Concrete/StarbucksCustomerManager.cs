@@ -17,10 +17,15 @@ namespace InterfaceAbstractDemo.Concrete
 
         public override void Save(Customer customer)
         {
-            if(_customerCheckService.CheckIfRealPerson(customer))
-                base.Save(customer);
-            else
-                throw new Exception("Not a valid person!");
+            if (_customerCheckService.CheckIfRealPerson(customer)) 
+            { 
+            base.Save(customer);
+            }
+            else 
+            { 
+            throw new Exception("Not a valid person!"); 
+            }
+
         }
 
       

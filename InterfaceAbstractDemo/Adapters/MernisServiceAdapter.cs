@@ -3,6 +3,7 @@ using InterfaceAbstractDemo.Entities;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using MernisServiceReference;
 
 namespace InterfaceAbstractDemo.Adapters
 {
@@ -10,7 +11,8 @@ namespace InterfaceAbstractDemo.Adapters
     {
         public bool CheckIfRealPerson(Customer customer)
         {
-            throw new NotImplementedException();
+            KPSPublicSoapClient client = new KPSPublicSoapClient();
+            return client.TCKimlikNoDogrula(Convert.ToInt64(customer.NatioanalityId),customer.FirstName.ToUpper(),customer.LastName.ToUpper(),customer.DateOfBirth.Year);
         }
     }
 }

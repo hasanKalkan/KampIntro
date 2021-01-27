@@ -1,6 +1,6 @@
 ﻿using InterfaceAbstractDemo.Abstract;
 using InterfaceAbstractDemo.Entities;
-using MernisServiceReference;
+using MernisServerReference;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -11,7 +11,7 @@ namespace InterfaceAbstractDemo.Concrete
     {
         public bool CheckIfRealPerson(Customer customer)
         {
-            MernisServiceReference.KPSPublicSoapClient client = new KPSPublicSoapClient();
+            return true;
         }
 
     }
