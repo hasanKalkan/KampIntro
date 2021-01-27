@@ -1,0 +1,13 @@
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfaceAbstractDemo\obj\Debug\netcoreapp3.1\InterfaceAbstractDemo.csprojAssemblyReference.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfaceAbstractDemo\obj\Debug\netcoreapp3.1\InterfaceAbstractDemo.AssemblyInfoInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfaceAbstractDemo\obj\Debug\netcoreapp3.1\InterfaceAbstractDemo.AssemblyInfo.cs
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfaceAbstractDemo\obj\Debug\netcoreapp3.1\InterfaceAbstractDemo.csproj.CoreCompileInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfaceAbstractDemo\bin\Debug\netcoreapp3.1\InterfaceAbstractDemo.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfaceAbstractDemo\bin\Debug\netcoreapp3.1\InterfaceAbstractDemo.deps.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfaceAbstractDemo\bin\Debug\netcoreapp3.1\InterfaceAbstractDemo.runtimeconfig.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfaceAbstractDemo\bin\Debug\netcoreapp3.1\InterfaceAbstractDemo.runtimeconfig.dev.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfaceAbstractDemo\bin\Debug\netcoreapp3.1\InterfaceAbstractDemo.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfaceAbstractDemo\bin\Debug\netcoreapp3.1\InterfaceAbstractDemo.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfaceAbstractDemo\obj\Debug\netcoreapp3.1\InterfaceAbstractDemo.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfaceAbstractDemo\obj\Debug\netcoreapp3.1\InterfaceAbstractDemo.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\InterfaceAbstractDemo\obj\Debug\netcoreapp3.1\InterfaceAbstractDemo.genruntimeconfig.cache

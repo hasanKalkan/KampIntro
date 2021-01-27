@@ -10,3 +10,4 @@ C:\Users\KALKAN\Documents\GitHub\KampIntro\Dictionary\obj\Debug\netcoreapp3.1\Di
 C:\Users\KALKAN\Documents\GitHub\KampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
 C:\Users\KALKAN\Documents\GitHub\KampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
 C:\Users\KALKAN\Documents\GitHub\KampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csprojAssemblyReference.cache

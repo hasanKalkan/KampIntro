@@ -10,3 +10,4 @@ C:\Users\KALKAN\Documents\GitHub\KampIntro\Classes\obj\Debug\netcoreapp3.1\Class
 C:\Users\KALKAN\Documents\GitHub\KampIntro\Classes\obj\Debug\netcoreapp3.1\Classes.dll
 C:\Users\KALKAN\Documents\GitHub\KampIntro\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
 C:\Users\KALKAN\Documents\GitHub\KampIntro\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Classes\obj\Debug\netcoreapp3.1\Classes.csprojAssemblyReference.cache
