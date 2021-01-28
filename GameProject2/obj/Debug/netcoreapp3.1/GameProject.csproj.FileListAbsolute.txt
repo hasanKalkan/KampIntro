@@ -1,0 +1,12 @@
+C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject2\bin\Debug\netcoreapp3.1\GameProject.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject2\bin\Debug\netcoreapp3.1\GameProject.deps.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject2\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject2\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.dev.json
+C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject2\bin\Debug\netcoreapp3.1\GameProject.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject2\bin\Debug\netcoreapp3.1\GameProject.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject2\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfoInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject2\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfo.cs
+C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject2\obj\Debug\netcoreapp3.1\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject2\obj\Debug\netcoreapp3.1\GameProject.dll
+C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject2\obj\Debug\netcoreapp3.1\GameProject.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject2\obj\Debug\netcoreapp3.1\GameProject.genruntimeconfig.cache

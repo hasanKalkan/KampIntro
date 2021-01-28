@@ -541,9 +541,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\GameProject\\GameProject.csproj",
-      "projectName": "GameProject",
-      "projectPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\GameProject\\GameProject.csproj",
+      "projectUniqueName": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\GameProject\\GameProjectEski.csproj",
+      "projectName": "GameProjectEski",
+      "projectPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\GameProject\\GameProjectEski.csproj",
       "packagesPath": "C:\\Users\\KALKAN\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\GameProject\\obj\\",
       "projectStyle": "PackageReference",

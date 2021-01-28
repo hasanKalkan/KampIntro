@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IW74UYRZEgdTejowjA7tSvS5fORwh/mCvCmAlYB7h/pQSz6DUgWJbELGj1OY6+Z3GnaXtlJQ4cYEtoH7V7BGYw==",
+  "dgSpecHash": "QfkJS3lsORYv8ivyAx1ObyqcyyZBm23ay59+sf8lWKVltOFkb36agiUogTyCOJhaBI81vNJWd/8c6iWbAsVIfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\GameProject\\GameProject.csproj",
+  "projectFilePath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\GameProject\\GameProjectEski.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KALKAN\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\KALKAN\\.nuget\\packages\\system.net.http.winhttphandler\\4.4.0\\system.net.http.winhttphandler.4.4.0.nupkg.sha512",
