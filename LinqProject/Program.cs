@@ -16,16 +16,20 @@ namespace LinqProject
 
             List<Product> products = new List<Product>
             {
-                new Product { ProductId = 1, CategoryId = 1, ProductName = "Acer Laptop", QuantityPerUnit = "32 GB Ram", UnitPrice = 8000, UnitsInStock=5},
+                new Product { ProductId = 1, CategoryId = 1, ProductName = "Acer Laptop", QuantityPerUnit = "32 GB Ram", UnitPrice = 5000, UnitsInStock=5},
                 new Product { ProductId = 2, CategoryId = 1, ProductName = "Asus Laptop", QuantityPerUnit = "16 GB Ram", UnitPrice = 8000, UnitsInStock=3},
                 new Product { ProductId = 3, CategoryId = 1, ProductName = "Hp Laptop", QuantityPerUnit = "8 GB Ram", UnitPrice = 6000, UnitsInStock=2},
                 new Product { ProductId = 4, CategoryId = 1, ProductName = "Samsung Telefon", QuantityPerUnit = "4 GB Ram", UnitPrice = 5000, UnitsInStock=15},
-                new Product { ProductId = 5, CategoryId = 1, ProductName = "Apple Telefon", QuantityPerUnit = "4 GB Ram", UnitPrice = 8000, UnitsInStock=0},
+                new Product { ProductId = 5, CategoryId = 1, ProductName = "Apple Telefon", QuantityPerUnit = "4 GB Ram", UnitPrice = 10000, UnitsInStock=0},
             };
             // Test(products);
 
-            //Console.WriteLine("\nMetotlu--------------------");
-            //GetProducts(products);
+            Console.WriteLine("\nMetotlu--------------------");
+            var result1=GetProductsLinq(products);
+            foreach (var product in result1)
+            {
+                Console.WriteLine(product.ProductName);
+            }
 
             // AnyTest(products);
 
@@ -35,7 +39,15 @@ namespace LinqProject
 
             //AscDescTest(products);
 
+           /* var result = from p in products
+                         where p.UnitPrice > 6000
+                         orderby p.UnitPrice descending,p.ProductName ascending
+                         select p;
 
+            foreach (var product in result)
+            {
+                Console.WriteLine(product.ProductName+" "+product.UnitPrice);
+            }*/
         }
 
         private static void AscDescTest(List<Product> products)
@@ -110,7 +122,7 @@ namespace LinqProject
         {
             List<Product> filteredProducts = new List<Product>();
 
-            return products.Where(product => product.UnitPrice > 5000 && product.UnitsInStock>3).ToList() ;
+            return products.Where(product => product.UnitPrice > 5000).ToList() ;
         }
 
     }
