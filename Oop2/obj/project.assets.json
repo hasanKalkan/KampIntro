@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Oop2\\Oop2.csproj",
-      "projectName": "Oop2",
-      "projectPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Oop2\\Oop2.csproj",
+      "projectUniqueName": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Oop2\\OOP2.csproj",
+      "projectName": "OOP2",
+      "projectPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Oop2\\OOP2.csproj",
       "packagesPath": "C:\\Users\\KALKAN\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\KALKAN\\Documents\\GitHub\\KampIntro\\Oop2\\obj\\",
       "projectStyle": "PackageReference",
