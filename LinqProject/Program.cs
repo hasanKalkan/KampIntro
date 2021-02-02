@@ -16,7 +16,7 @@ namespace LinqProject
 
             List<Product> products = new List<Product>
             {
-                new Product { ProductId = 1, CategoryId = 1, ProductName = "Acer Laptop", QuantityPerUnit = "32 GB Ram", UnitPrice = 10000, UnitsInStock=5},
+                new Product { ProductId = 1, CategoryId = 1, ProductName = "Acer Laptop", QuantityPerUnit = "32 GB Ram", UnitPrice = 8000, UnitsInStock=5},
                 new Product { ProductId = 2, CategoryId = 1, ProductName = "Asus Laptop", QuantityPerUnit = "16 GB Ram", UnitPrice = 8000, UnitsInStock=3},
                 new Product { ProductId = 3, CategoryId = 1, ProductName = "Hp Laptop", QuantityPerUnit = "8 GB Ram", UnitPrice = 6000, UnitsInStock=2},
                 new Product { ProductId = 4, CategoryId = 1, ProductName = "Samsung Telefon", QuantityPerUnit = "4 GB Ram", UnitPrice = 5000, UnitsInStock=15},
@@ -29,8 +29,40 @@ namespace LinqProject
 
             // AnyTest(products);
 
+            // FindTest(products);
+
+            //FindAllTest(products);
+
+            //AscDescTest(products);
+
+
+        }
+
+        private static void AscDescTest(List<Product> products)
+        {
+            //Single line query
+            var result = products.Where(p => p.ProductName.Contains("top")).OrderBy(p => p.UnitPrice).ThenByDescending(p => p.ProductName);
+
+            foreach (var product in result)
+            {
+                Console.WriteLine(product.ProductName + " " + product.UnitPrice);
+            }
+        }
+
+        private static void FindAllTest(List<Product> products)
+        {
+            var result = products.FindAll(p => p.ProductName.Contains("top"));
+            foreach (var product in result)
+            {
+                Console.WriteLine(product.ProductName);
+            }
+            Console.WriteLine(result);
+        }
+
+        private static void FindTest(List<Product> products)
+        {
             //lambda
-            var result = products.Find(p => p.ProductId == 3);
+            var result = products.Find(p => p.ProductId == 3); //Product id si 3 olan kayıtları bulur.
             Console.WriteLine(result.ProductName);
         }
 
