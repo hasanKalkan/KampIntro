@@ -10,3 +10,4 @@ C:\Users\KALKAN\Documents\GitHub\KampIntro\LinqProject\obj\Debug\netcoreapp3.1\L
 C:\Users\KALKAN\Documents\GitHub\KampIntro\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.dll
 C:\Users\KALKAN\Documents\GitHub\KampIntro\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.pdb
 C:\Users\KALKAN\Documents\GitHub\KampIntro\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.genruntimeconfig.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.csprojAssemblyReference.cache

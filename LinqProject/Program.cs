@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace LinqProject
 {
@@ -21,18 +22,65 @@ namespace LinqProject
                 new Product { ProductId = 4, CategoryId = 1, ProductName = "Samsung Telefon", QuantityPerUnit = "4 GB Ram", UnitPrice = 5000, UnitsInStock=15},
                 new Product { ProductId = 5, CategoryId = 1, ProductName = "Apple Telefon", QuantityPerUnit = "4 GB Ram", UnitPrice = 8000, UnitsInStock=0},
             };
+            // Test(products);
 
+            //Console.WriteLine("\nMetotlu--------------------");
+            //GetProducts(products);
 
+            // AnyTest(products);
+
+            //lambda
+            var result = products.Find(p => p.ProductId == 3);
+            Console.WriteLine(result.ProductName);
+        }
+
+        private static void AnyTest(List<Product> products)
+        {
+            var result = products.Any(p => p.ProductName == "Acer Laptop");//result true;
+            Console.WriteLine(result);
+        }
+
+        private static void Test(List<Product> products)
+        {
+            Console.WriteLine("Algoritmik------------------");
             foreach (var product in products)
             {
-                if (product.UnitPrice > 5000 && product.UnitsInStock>3)
+                if (product.UnitPrice > 5000 && product.UnitsInStock > 3)
                 {
-                Console.WriteLine(product.ProductName);
-
+                    Console.WriteLine(product.ProductName); //acer laptop
                 }
-    
+            }
+
+            Console.WriteLine("\nLinq------------------");
+            var result = products.Where(product => product.UnitPrice > 5000 && product.UnitsInStock > 3);
+            foreach (var product in result)
+            {
+                Console.WriteLine(product.ProductName); //Aynı şeyi yazdırır.
             }
         }
+
+        static List<Product> GetProducts(List<Product> products)
+        {
+            List<Product> filteredProducts = new List<Product>();
+            foreach (var product in products)
+            {
+                if (product.UnitPrice > 5000 && product.UnitsInStock > 3)
+                {
+                    filteredProducts.Add(product); 
+                    Console.WriteLine(filteredProducts);
+                }
+               
+            }
+            return filteredProducts; 
+        }
+
+        static List<Product> GetProductsLinq(List<Product> products) //kodların linq ile yazımı
+        {
+            List<Product> filteredProducts = new List<Product>();
+
+            return products.Where(product => product.UnitPrice > 5000 && product.UnitsInStock>3).ToList() ;
+        }
+
     }
 
     class Product
