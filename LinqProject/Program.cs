@@ -24,12 +24,12 @@ namespace LinqProject
             };
             // Test(products);
 
-            Console.WriteLine("\nMetotlu--------------------");
+            /*Console.WriteLine("\nMetotlu--------------------");
             var result1=GetProductsLinq(products);
             foreach (var product in result1)
             {
                 Console.WriteLine(product.ProductName);
-            }
+            }*/
 
             // AnyTest(products);
 
@@ -39,15 +39,23 @@ namespace LinqProject
 
             //AscDescTest(products);
 
-           /* var result = from p in products
+            ClassicLinqTest(products);
+        }
+
+        private static void ClassicLinqTest(List<Product> products)
+        {
+            var result = from p in products
                          where p.UnitPrice > 6000
-                         orderby p.UnitPrice descending,p.ProductName ascending
-                         select p;
+                         orderby p.UnitPrice descending, p.ProductName ascending
+                         // select p.p;
+                         // select p.ProductName;
+                         select new ProductDto { ProductId = p.ProductId, ProductName = p.ProductName, UnitPrice = p.UnitPrice };
 
             foreach (var product in result)
             {
-                Console.WriteLine(product.ProductName+" "+product.UnitPrice);
-            }*/
+                // Console.WriteLine(product.ProductName+" "+product.UnitPrice);
+                Console.WriteLine(product.ProductName);
+            }
         }
 
         private static void AscDescTest(List<Product> products)
@@ -124,6 +132,15 @@ namespace LinqProject
 
             return products.Where(product => product.UnitPrice > 5000).ToList() ;
         }
+
+    }
+
+    class ProductDto //Dto:Data Transformassion Object
+    {
+        public int ProductId { get; set; }
+        public string CategoryName { get; set; }
+        public string ProductName { get; set; }
+        public decimal UnitPrice { get; set; }
 
     }
 
