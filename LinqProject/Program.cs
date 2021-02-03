@@ -19,17 +19,12 @@ namespace LinqProject
                 new Product { ProductId = 1, CategoryId = 1, ProductName = "Acer Laptop", QuantityPerUnit = "32 GB Ram", UnitPrice = 5000, UnitsInStock=5},
                 new Product { ProductId = 2, CategoryId = 1, ProductName = "Asus Laptop", QuantityPerUnit = "16 GB Ram", UnitPrice = 8000, UnitsInStock=3},
                 new Product { ProductId = 3, CategoryId = 1, ProductName = "Hp Laptop", QuantityPerUnit = "8 GB Ram", UnitPrice = 6000, UnitsInStock=2},
-                new Product { ProductId = 4, CategoryId = 1, ProductName = "Samsung Telefon", QuantityPerUnit = "4 GB Ram", UnitPrice = 5000, UnitsInStock=15},
-                new Product { ProductId = 5, CategoryId = 1, ProductName = "Apple Telefon", QuantityPerUnit = "4 GB Ram", UnitPrice = 10000, UnitsInStock=0},
+                new Product { ProductId = 4, CategoryId = 2, ProductName = "Samsung Telefon", QuantityPerUnit = "4 GB Ram", UnitPrice = 5000, UnitsInStock=15},
+                new Product { ProductId = 5, CategoryId = 2, ProductName = "Apple Telefon", QuantityPerUnit = "4 GB Ram", UnitPrice = 10000, UnitsInStock=0},
             };
             // Test(products);
 
-            /*Console.WriteLine("\nMetotlu--------------------");
-            var result1=GetProductsLinq(products);
-            foreach (var product in result1)
-            {
-                Console.WriteLine(product.ProductName);
-            }*/
+            // Metotlu(products);
 
             // AnyTest(products);
 
@@ -39,7 +34,30 @@ namespace LinqProject
 
             //AscDescTest(products);
 
-            ClassicLinqTest(products);
+            // ClassicLinqTest(products);
+
+            var result = from p in products
+                         join c in categories
+                         on p.CategoryId equals c.CategoryId //equals yerine == kullanamayız
+                         where p.UnitPrice>5000
+                         orderby p.UnitPrice descending
+                         select new ProductDto { ProductId = p.ProductId, CategoryName = c.CategoryName, ProductName = p.ProductName, UnitPrice = p.UnitPrice };
+
+            foreach (var productDto in result)
+            {
+                Console.WriteLine(productDto.ProductName + " " + productDto.CategoryName);
+            }
+
+        }
+
+        private static void Metotlu(List<Product> products)
+        {
+            Console.WriteLine("\nMetotlu--------------------");
+            var result1 = GetProductsLinq(products);
+            foreach (var product in result1)
+            {
+                Console.WriteLine(product.ProductName);
+            }
         }
 
         private static void ClassicLinqTest(List<Product> products)
