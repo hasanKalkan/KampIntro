@@ -10,3 +10,4 @@ C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject2\obj\Debug\netcoreapp3.1\
 C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject2\obj\Debug\netcoreapp3.1\GameProject.dll
 C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject2\obj\Debug\netcoreapp3.1\GameProject.pdb
 C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject2\obj\Debug\netcoreapp3.1\GameProject.genruntimeconfig.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject2\obj\Debug\netcoreapp3.1\GameProject.csprojAssemblyReference.cache

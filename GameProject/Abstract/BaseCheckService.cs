@@ -17,5 +17,9 @@ namespace GameProject.Abstract
             return client.TCKimlikNoDogrulaAsync(Convert.ToInt64(customer.Id), customer.FirstName, customer.LastName, customer.BirthYear).Result.Body.TCKimlikNoDogrulaResult;
         }
 
+        public bool ValidatePerson(ICustomer customer)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

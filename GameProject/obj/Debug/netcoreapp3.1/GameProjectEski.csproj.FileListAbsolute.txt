@@ -1,0 +1,4 @@
+C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject\obj\Debug\netcoreapp3.1\GameProjectEski.csprojAssemblyReference.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject\obj\Debug\netcoreapp3.1\GameProjectEski.AssemblyInfoInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject\obj\Debug\netcoreapp3.1\GameProjectEski.AssemblyInfo.cs
+C:\Users\KALKAN\Documents\GitHub\KampIntro\GameProject\obj\Debug\netcoreapp3.1\GameProjectEski.csproj.CoreCompileInputs.cache
