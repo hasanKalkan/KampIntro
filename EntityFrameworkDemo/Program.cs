@@ -41,9 +41,9 @@ namespace EntityFrameworkDemo
                 Id = 5,
                 BrandId = 3,
                 ColorId = 2,
-                ModelYear = 1978,
-                DailyPrice = 140000,
-                Description = "Pontiac Firebird"
+                ModelYear = 1966,
+                DailyPrice = 180000,
+                Description = "Playmouth Barracuda"
             });
             GetAll();
 
