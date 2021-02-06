@@ -11,9 +11,9 @@ namespace GameProject
     {
         static void Main(string[] args)
         {
-            //ICustomer customer = new Student();
+           /* //ICustomer customer = new Student();
             ICustomer adult = new Adult() { Id = "12345", FirstName = "Ali", LastName = "Can", BirthYear = 1990, StudentId = "3223" };
-            ISignUpManager signUpManager = new SignUpManager(new StudentServiceAdapter());
+           // ISignUpManager signUpManager = new SignUpManager(new StudentServiceAdapter());
 
             signUpManager.CustomerAdd(new Student { Id = "345345", FirstName = "Ayşe", LastName = "Can", BirthYear = 1990, StudentId = "2334" }, new OracleServerDal());
             signUpManager.CustomerAdd(adult, new MySqlServerDal());
@@ -25,7 +25,7 @@ namespace GameProject
             campaignManager.AddCampaign(campaign1, game1, adult, new MySqlServerDal());
 
             ISalesManager salesManager = new SalesManager();
-            salesManager.Sell(adult, game1, campaign1, new SMSLoggerService());
+            salesManager.Sell(adult, game1, campaign1, new SMSLoggerService());*/
         }
     }
 
