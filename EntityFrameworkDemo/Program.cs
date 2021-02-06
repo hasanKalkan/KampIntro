@@ -26,7 +26,7 @@ namespace EntityFrameworkDemo
                 ColorId = 2,
                 ModelYear = 1978,
                 DailyPrice = 140000,
-                Description = "1978 Pontiac Firebird Trans Am"
+                Description = "Pontiac Firebird"
             };
             GetAll();
 
@@ -53,29 +53,32 @@ namespace EntityFrameworkDemo
         {
             ReCapProject context = new ReCapProject();
 
-            var addedEntity = context.Entry(newCar);
-            addedEntity.State = EntityState.Added;
+            context.Cars.Add(newCar);
+         //   var addedEntity = context.Entry(newCar);
+           // addedEntity.State = EntityState.Added;
             context.SaveChanges();
-            Console.WriteLine("\n"+newCar.Description + " eklendi.");
+            Console.WriteLine("\nEkleme işlemi: "+newCar.Description + " eklendi.");
         }
 
 
         private static void Delete(Car newCar)        {
             ReCapProject context = new ReCapProject();
-            var deletedEntity = context.Entry(newCar);
-            deletedEntity.State = EntityState.Deleted;
+            context.Cars.Remove(newCar);
+           // var deletedEntity = context.Entry(newCar);
+            //deletedEntity.State = EntityState.Deleted;
             context.SaveChanges();
-            Console.WriteLine("\n" + newCar.Description + " silindi.");
+            Console.WriteLine("\nSilme işlemi: " + newCar.Description + " silindi.");
         }
         private static void Update(Car newCar)
         {
-            ReCapProject context = new ReCapProject();            
-            var updatedEntity = context.Entry(newCar);
+            ReCapProject context = new ReCapProject();
             newCar.Description = "Ford Mustang GT";
-            updatedEntity.State = EntityState.Modified;
+            context.Cars.Update(newCar);
+           // var updatedEntity = context.Entry(newCar);
+           // updatedEntity.State = EntityState.Modified;
             context.SaveChanges();
-            Console.WriteLine("\n" + newCar.Description + " değiştirildi.");
-            Console.WriteLine("{0} {1} {2}", newCar.Id, newCar.Description, newCar.DailyPrice);
+            Console.WriteLine("\nGüncelleme işlemi: " + newCar.Id + " numaralı araç "+newCar.Description+" olarak değiştirildi.");
+            //Console.WriteLine("{0} {1} {2}", newCar.Id, newCar.Description, newCar.DailyPrice);
             
 
         }
@@ -96,7 +99,7 @@ namespace EntityFrameworkDemo
             var result = context.Cars.Where(c => c.Id == Id);
             foreach (var car in result)
             {
-                Console.WriteLine("\n"+car.Id+" numaralı araç: "+car.Description+" listelendi.");
+                Console.WriteLine("\nId numarasına göre listeleme işlemi: "+car.Id+" numaralı araç "+car.Description+" listelendi.");
             }
         }
 
