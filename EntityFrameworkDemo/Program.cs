@@ -36,16 +36,24 @@ namespace EntityFrameworkDemo
             Delete(newCar);
             GetAll();
 
-            Add(newCar);
+            Add(new Car()
+            {
+                Id = 5,
+                BrandId = 3,
+                ColorId = 2,
+                ModelYear = 1978,
+                DailyPrice = 140000,
+                Description = "Pontiac Firebird"
+            });
             GetAll();
 
             newCar.Id = 5;
-            Update(newCar);
+            Update(new Car{Id=5,Description="Ford Mustang GT"});
             GetAll();
 
             GetCarsById(5);
 
-            Delete(newCar);
+            Delete(new Car { Id = 5,Description="Ford Mustang GT"});
             GetAll();
         }
 
@@ -72,7 +80,7 @@ namespace EntityFrameworkDemo
         private static void Update(Car newCar)
         {
             ReCapProject context = new ReCapProject();
-            newCar.Description = "Ford Mustang GT";
+            //newCar.Description = "Ford Mustang GT";
             context.Cars.Update(newCar);
            // var updatedEntity = context.Entry(newCar);
            // updatedEntity.State = EntityState.Modified;
