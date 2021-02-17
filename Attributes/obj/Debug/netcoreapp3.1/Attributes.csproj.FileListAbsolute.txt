@@ -10,3 +10,4 @@ C:\Users\KALKAN\Documents\GitHub\KampIntro\Attributes\obj\Debug\netcoreapp3.1\At
 C:\Users\KALKAN\Documents\GitHub\KampIntro\Attributes\obj\Debug\netcoreapp3.1\Attributes.dll
 C:\Users\KALKAN\Documents\GitHub\KampIntro\Attributes\obj\Debug\netcoreapp3.1\Attributes.pdb
 C:\Users\KALKAN\Documents\GitHub\KampIntro\Attributes\obj\Debug\netcoreapp3.1\Attributes.genruntimeconfig.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Attributes\obj\Debug\netcoreapp3.1\Attributes.csprojAssemblyReference.cache

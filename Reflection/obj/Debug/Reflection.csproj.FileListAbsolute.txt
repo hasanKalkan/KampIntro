@@ -1,0 +1,7 @@
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Reflection\bin\Debug\Reflection.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Reflection\bin\Debug\Reflection.pdb
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Reflection\obj\Debug\Reflection.exe
+C:\Users\KALKAN\Documents\GitHub\KampIntro\Reflection\obj\Debug\Reflection.pdb
