@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqProject", "LinqProject\LinqProject.csproj", "{A577B208-6641-4420-A90A-9E3C3D442C32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDemo", "EntityFrameworkDemo\EntityFrameworkDemo.csproj", "{426E5655-0C9E-4FAC-9FC4-C8C380D3EBC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityFrameworkDemo", "EntityFrameworkDemo\EntityFrameworkDemo.csproj", "{426E5655-0C9E-4FAC-9FC4-C8C380D3EBC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attributes", "Attributes\Attributes.csproj", "{08A5F056-6640-4FAE-A053-5581054FCCF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{426E5655-0C9E-4FAC-9FC4-C8C380D3EBC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{426E5655-0C9E-4FAC-9FC4-C8C380D3EBC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{426E5655-0C9E-4FAC-9FC4-C8C380D3EBC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A5F056-6640-4FAE-A053-5581054FCCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A5F056-6640-4FAE-A053-5581054FCCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A5F056-6640-4FAE-A053-5581054FCCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A5F056-6640-4FAE-A053-5581054FCCF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
